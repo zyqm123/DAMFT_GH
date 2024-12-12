@@ -1,0 +1,6 @@
+acc,precision,f1,filename
+0.9936708860759493,0.9941860465116279,0.9936277475297439,abalone_train.csv
+0.9936708860759493,0.9941860465116279,0.9936277475297439,abalone_train.csv
+1.0,1.0,1.0,abalone_train.csv
+1.0,1.0,1.0,abalone_train.csv
+1.0,1.0,1.0,abalone_train.csv
